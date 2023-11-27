@@ -1,2 +1,3 @@
 # lenta_demand_forecast_hackathon
-Creating an ML product for 14 days demand forecasting for own-produced goods 
+Создание алгоритма прогноза спроса на 14 дней для товаров собственного производства. Гранулярность ТК-SKU-День.
+CatBoost на кроссвалидации показал wape = 0,34.
